@@ -2,7 +2,7 @@
 - 👀 I’m interested in linux OS
 - 🌱 I’m currently learning nixos
 - 💞️ I’m looking to collaborate on nixos configuration and setup
-- 📫 How to reach me ...
+- 📫 How to reach me greg.allen54@gmail.com
 
 <!---
 gregallem/gregallem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
